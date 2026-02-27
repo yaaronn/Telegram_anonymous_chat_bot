@@ -1,0 +1,9 @@
+aiogram==3.4.1
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+alembic
+redis
+python-dotenv
+pydantic
