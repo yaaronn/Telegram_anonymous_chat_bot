@@ -1,15 +1,5 @@
 aiogram==3.7.0
 aiosqlite
+python-dotenv
+SQLAlchemy
 greenlet
-propcache==0.4.1
-pydantic==2.12.5
-pydantic-settings==2.13.0
-pydantic_core==2.41.5
-python-dotenv==1.2.1
-redis==7.2.0
-SQLAlchemy==2.0.46
-starlette==0.52.1
-typing-inspection==0.4.2
-typing_extensions==4.15.0
-uvicorn==0.41.0
-yarl==1.22.0
